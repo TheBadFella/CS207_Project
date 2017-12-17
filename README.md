@@ -1,3 +1,5 @@
+# RC-Car11234
+
 The project is to implement an Arduino microprocessor to control the functions of a pre-built RC car.
 
 The primary objective of this project was to make the car function using a Android device. To implement
@@ -12,69 +14,81 @@ use Android device to perform functions such as moving the car forwards, backwar
 
 #Requirement and Material
 
-- Important libraries that are required
-You will need to use a library softwareserial.h. The detailed information regarding the content of the library can be found on the link below.
+### - Important libraries that are required
+
+- You will need to use a library softwareserial.h. The detailed information regarding the content of the library can be found on the link below.
+
 Softwareserial.h -https://www.arduino.cc/en/Reference/SoftwareSerial
 
-This library is already intalled on auridino so we do not need to install it.To use thislibrary we have to include < Softwareserial.h > in your code.
+This library is already intalled on auridino so we do not need to install it.To use thislibrary we have to include 
+< Softwareserial.h > in your code.
 
 ###List of Material:
 
-RC Car from Walmart.  (It cost $30 at my local Walmart.)
+- RC Car from Walmart. 
+(It cost $30 at my local Walmart.)
 
-Arduino microprocessor
+- Arduino microprocessor
 
-HC -06 bluetooth module
+-  HC -06 bluetooth module
 
-HBridge Ld293d
+- HBridge Ld293d
 
-25 wires, 8 jumper wires
+- 25 wires, 8 jumper wires
 
-2 DC motors
+- 2 DC motors
 
-9V Battery
+- 9V Battery
 
-Battery Wires , USB cable compatible with aduino
+- Battery Wires , USB cable compatible with aduino 
 
-Screwdriver
+- Screwdriver
 
-Wire Stripper
+- Wire Stripper
 
-Friends to bring you food when u get tired
+- Friends to bring you food when u get tired
 
-A device to send instructions to your bluetooth module
+- A device to send instructions to your bluetooth module
 
-A device to recive instructions to your bluetooth module
+- A device to recive instructions to your bluetooth module
+
 
 ###Build instructions :
 
-Building the Rc car is easy and simple
-unnamed
+- Building the Rc car is easy and simple
 
-schematics of rc car schematics of rc car 2 jpeg This Reposity Consit of Following things:
+![unnamed](https://cloud.githubusercontent.com/assets/22280986/21034975/81192f8c-bd81-11e6-866e-a67c1428bae7.png)
 
-Source code - It includes the final code You wil need to upload to your auridino
+![schematics of rc car](https://cloud.githubusercontent.com/assets/22280986/21035015/c09c3d34-bd81-11e6-9d53-5191ca25de44.jpeg)
+![schematics of rc car 2 jpeg](https://cloud.githubusercontent.com/assets/22280986/21035018/c27fc738-bd81-11e6-9f6b-4f67f6b531eb.jpeg)
+This Reposity Consit of Following things:
 
-Bluetoothrccar- picture of hc-06 used in the project
+- Source code -  It includes the final code You wil need to upload to your auridino
 
-libraries - Libraries that were used
+- Bluetoothrccar- picture of hc-06 used in the project
 
-images - the folowing image files are there - Schematics, whole circuit picture, bluetooth rc car, Hbridge
-
-LICENSE - The license file.
-
-README.md - The file you're reading now! :-D
+- libraries - Libraries that were used 
+- images - the folowing image files are there - Schematics, whole circuit picture, bluetooth rc car, Hbridge
+- LICENSE - The license file.
+- README.md - The file you're reading now! :-D
 
 Usage
+=====
 Using the Rc car is very easy , whem You make the crcuit as shown abhove and install the code
 
-You will have to install an app smart bluetooth on your android device and connect to bluetooth named ITEAD when you are connected, it will give you an option to send istructions.
+You will have to install an app smart bluetooth on your android device and connect to bluetooth named ITEAD
+when you are connected, it will give you an option to send istructions.
 
-0- will make the car go forward.
-1- will make the car g reverse .
-b- will stop the car .
-l- will make the car go left.
-r- will make the car go right.
-s- will make go straight again.
+- 0- will make the car go forward. 
+- 1- will make the car g reverse . 
+- b- will stop the car .
+- l- will make the car go left. 
+- r- will make the car go right. 
+- s- will make go straight again. 
 
-###Team Chashamnoor Singh
+
+###Team
+Vaibhav sharma - we worked together on everything 
+Rosal Bharthi - we worked together on everything 
+
+
