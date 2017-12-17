@@ -61,12 +61,11 @@ This library is already intalled on auridino so we do not need to install it.To 
 
 ![schematics of rc car](https://cloud.githubusercontent.com/assets/22280986/21035015/c09c3d34-bd81-11e6-9d53-5191ca25de44.jpeg)
 ![schematics of rc car 2 jpeg](https://cloud.githubusercontent.com/assets/22280986/21035018/c27fc738-bd81-11e6-9f6b-4f67f6b531eb.jpeg)
-This Reposity Consit of Following things:
 
-- Source code -  It includes the final code You wil need to upload to your auridino
+This Repository Consist of the following things:
 
-- Bluetoothrccar- picture of hc-06 used in the project
-
+- Source code -  It includes the final code that will be needed to upload to the auridino
+- Bluetooth Rc-car- picture of hc-06 used in the project
 - libraries - Libraries that were used 
 - images - the folowing image files are there - Schematics, whole circuit picture, bluetooth rc car, Hbridge
 - LICENSE - The license file.
