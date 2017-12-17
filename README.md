@@ -1,4 +1,4 @@
-# RC-Car11234
+# Remote Control Car
 
 The project is to implement an Arduino microprocessor to control the functions of a pre-built RC car.
 
@@ -88,7 +88,6 @@ when you are connected, it will give you an option to send istructions.
 
 
 ###Team
-Vaibhav sharma - we worked together on everything 
-Rosal Bharthi - we worked together on everything 
+Chashamnoor Singh
 
 
